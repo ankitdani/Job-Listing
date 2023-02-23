@@ -13,19 +13,19 @@ Example:
 docker build -t joblisting-docker.jar .
 ```
 
-### To confirm docker image files:
+### To confirm docker image files
 
 ```
 docker image ls
 ```
 
-### To run docker image:
+### To run docker image
 
 ```
 docker run -p 9090:8080 joblisting-docker.jar
 ```
 
-## Testing the server:
+## Testing the server
 
 Once started, you can navigate to [http://localhost:9090/swagger-ui.html](http://localhost:9090/swagger-ui.html) to view the Swagger Resource Listing. This tell you that the server is up and ready with swagger-ui.
 
