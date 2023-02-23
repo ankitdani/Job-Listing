@@ -31,7 +31,7 @@ Once started, you can navigate to [http://localhost:9090/swagger-ui.html](http:/
 
 ## Using the UI
 
-You can inspect the job listing API using Swagger UI. You can access the swagger-ui source code from [here](https://github.com/swagger-api/swagger-ui).
+You can inspect the job listing API using swagger-ui. You can access the swagger-ui source code from [here](https://github.com/swagger-api/swagger-ui).
 
 
 
