@@ -1,4 +1,4 @@
-# Job Listing
+# Job Listings
 
 ## Overview
 This is the backend that can be integrated to a frontend to build a full stack job listing application.
