@@ -5,7 +5,7 @@ This is the backend that can be integrated to a frontend to build a full stack j
 
 ## To run (with Docker)
 
-Expose port 8080 from the image and access the project via the exposed port. You can hit the swagger endpoint to post or search the jobs from the sample jobs stored on MongoDB Atlas.
+Expose port 9090 from the image and access the project via the exposed port. You can hit the swagger endpoint to post or search the jobs from the sample jobs stored on MongoDB Atlas.
 
 Example:
 
